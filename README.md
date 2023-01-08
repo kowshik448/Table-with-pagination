@@ -68,3 +68,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Table-with-pagination
+
+Features of this project are - 
+1. Implemented Search bar functionality 
+2. Implemented Sorting Functionality (sort by columns)
+3. Implemented Pagination 
+4. used react-bootstrap for layout
+5. custom styling by css
+6. used cypress fro testing
