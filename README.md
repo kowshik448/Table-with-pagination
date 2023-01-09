@@ -8,6 +8,8 @@ Features of this project are -
 5. custom styling by css
 6. used cypress fro testing
 
+note : if any case any error occurs with react-scripts try changing it to "react-scripts start" in scripts of package.json file
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
